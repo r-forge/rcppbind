@@ -1,0 +1,15 @@
+1. Makefile/Makefile.win
+
+  Modify the make process so that only one dll/so file will
+  be produced -- with name rcppbind.so or rcppbind.dll.
+
+2. Make a share library object
+
+  Such that all programs using the template library can reuse
+  the library...
+
+  Some functions might need to be completed.
+
+3. documentation.
+
+Upgrade the version to 1.1 when these three goals are completed.
