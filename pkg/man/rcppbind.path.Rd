@@ -1,4 +1,5 @@
-\name{ccppbind.path}
+\name{rccppbind.path}
+\alias{rccppbind.path}
 \title{Path of R/C++ interface bind header files}
 \description{
   \code{rcppbind.path()} gives the path where the rcppbind
@@ -17,4 +18,4 @@ rcppbind.path()
 \references{
   \emph{Writing R Extensions}, available at \url{http:www.r-project.org}.
 }
-\keyword{rcppbind, path}
+\keyword{misc}

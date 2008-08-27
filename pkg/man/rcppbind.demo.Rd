@@ -1,4 +1,5 @@
 \name{rcppbind.demo}
+\alias{rcppbind.demo}
 \title{R/C++ interface bind demonstration}
 \description{
   \code{rcppbind.demo} illustrates several examples how to
@@ -19,4 +20,4 @@ rcppbind.demo()
   \emph{Writing R Extensions}, available at \url{http:www.r-project.org}.
 }
 
-\keyword{rcppbind, demo}
+\keyword{misc}

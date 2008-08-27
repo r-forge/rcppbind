@@ -13,7 +13,7 @@ mkdir -p inst/src
 mkdir -p inst/doc
 cp include/* inst/include
 cp src/demo*.cpp src/Makefile.* inst/src
-cp doc/* inst/doc
+cp doc/rcppbind.pdf inst/doc
 cp LICENSE.txt inst
 
 AC_OUTPUT

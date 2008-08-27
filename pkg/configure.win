@@ -13,6 +13,12 @@ then
     mkdir inst/src
 fi
 
+if test \! -d inst/doc
+then
+    mkdir inst/doc
+fi
+
 cp include/* inst/include
 cp src/demo*.cpp src/Makefile.* inst/src
+cp doc/rcppbind.pdf inst/doc
 cp LICENSE.txt inst
