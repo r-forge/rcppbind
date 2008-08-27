@@ -1,5 +1,5 @@
-\name{rccppbind.path}
-\alias{rccppbind.path}
+\name{rcppbind.path}
+\alias{rcppbind.path}
 \title{Path of R/C++ interface bind header files}
 \description{
   \code{rcppbind.path()} gives the path where the rcppbind

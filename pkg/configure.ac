@@ -10,10 +10,8 @@ dnl copy demo_xxx.cpp, Makefile to src
 dnl copy doc.pdf to inst
 mkdir -p inst/include
 mkdir -p inst/src
-mkdir -p inst/doc
 cp include/* inst/include
 cp src/demo*.cpp src/Makefile.* inst/src
-cp doc/rcppbind.pdf inst/doc
 cp LICENSE.txt inst
 
 AC_OUTPUT
