@@ -1,4 +1,7 @@
 \documentclass{article}
+
+%\VignetteIndexEntry{rcppbind: A R/C++ template class library}
+
 \usepackage{mymacro}
 \lstset{language=c++}
 \lstset{linewidth=9cm,frameround=tttt,basicstyle=\ttfamily,keywordstyle={}}
